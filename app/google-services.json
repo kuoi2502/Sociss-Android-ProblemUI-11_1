@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "715694789811",
+    "firebase_url": "https://sociss-firebase-auth.firebaseio.com",
+    "project_id": "sociss-firebase-auth",
+    "storage_bucket": "sociss-firebase-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715694789811:android:57a28b2999c2c9c7",
+        "android_client_info": {
+          "package_name": "com.demo.socissproblem11_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715694789811-q8je61uusbbcue7nhva4sd2co2r6seis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVTDR4iYcd9ds5gLmoZAHbmf403lAogQg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
